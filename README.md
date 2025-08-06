@@ -11,6 +11,8 @@ Main Goal
  
 Character Restriction
 - Since you can only use Rice Shower. You must use your Head Start 3* Voucher on Rice Shower at the beginning. Your 1st and only run is Rice Shower.
+- You must use Pace Chaser.
+- You cannot try to force Medium races or lower for URAs.
  
 Gacha Pulls
 - Receive all your new account rewards which include the SSR Voucher you need to use on Rice Shower.

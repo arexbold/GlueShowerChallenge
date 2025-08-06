@@ -33,6 +33,7 @@ Alarm Clocks
  
 Reset Condition
 - If you lose your run, you reset your account and try again.
+- If your URA races are not Long, you must reset.
  
 Winning Condition
 - Beat URA Finals with Rice Shower.

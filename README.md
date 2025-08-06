@@ -16,7 +16,7 @@ Character Restriction
  
 Gacha Pulls
 - Receive all your new account rewards which include the SSR Voucher you need to use on Rice Shower.
-- You can only scout Support Cards since you're only using Rice Shower. The maximum you can do is 10xScout 13 times which is 19,500 carats. (You might be a little under. You'll get them from just doing other things.)
+- You can only scout Support Cards since you're only using Rice Shower. The maximum you can do is 10xScout 12 times which is 18,000 carats. (You might be a little under. You'll get them from just doing other things.)
 - You can use your free guaranteed SSR Support pull tickets. Max 3.
 - You are not allowed to reset if you don't like your pulls. Improvise with what you have.
  
@@ -25,7 +25,8 @@ Training and Resources
 - No paid carats or premium pulls. Only use your free stuff.
  
 Support Card Restriction
-- You are required to use a Guest card for your support cards but you are not allowed to wait until you find the best card. You're only allowed to reroll up to 3 times. That's it.
+- Max level card you can use from YOUR support cards is level 35.
+- Cannot use any guest support card that exceeds level 30.
 - No Pal Support cards. (Tazuna, Aoi Kiryuin, etc)
  
 Alarm Clocks
